@@ -21,6 +21,8 @@ curl -s https://eooce.2go.us.kg/tu.sh | PORT=UDP端口 NEZHA_SERVER=admin.cn NEZ
 ```bash
 curl -s https://eooce.2go.us.kg/2.sh | PORT=UDP端口 NEZHA_SERVER=admin.cn NEZHA_PORT=5555 NEZHA_KEY=abc123 bash
 ```
-
+### SOCKS5禁止直连，直连封号，只能作为变量SOCKS5变量使用
+### SOCKS5禁止直连，直连封号，只能作为变量SOCKS5变量使用
+### SOCKS5禁止直连，直连封号，只能作为变量SOCKS5变量使用
 
 
