@@ -1,5 +1,5 @@
 # serv00-ct8无交互一键脚本合集
-# 汇聚大佬们的脚本，这里有各个大佬的优秀作品
+# 汇聚大佬们的脚本，本人聚集了大佬的优秀作品
 # 非cron保活版本，死了就重新安装一遍
 - https://github.com/cmliu
 - https://github.com/gshtwy
