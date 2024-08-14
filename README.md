@@ -9,7 +9,7 @@
 - https://github.com/Neomanbeta
 ## 一键四协议无交互安装脚本vmess-ws|vmess-ws-tls(argo)|hy2|tuic5，需设置环境变量 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/jackbrownsu/serv00-ct8-No-interactive-script/main/sb_00_4in1.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/eooce/sing-box/main/sb_00.sh)
 ```
 - 必填环境变量：VMESS_PORT HY2_PORT TUIC_PORT
 - 可选环境变量：NEZHA_SERVER NEZHA_PORT NEZHA_KEY ARGO_DOMAIN ARGO_AU
