@@ -11,8 +11,8 @@
 ```bash
 VMESS_PORT=tcp端口 HY2_PORT=udp端口 TUIC_PORT=udp端口 bash <(curl -Ls https://raw.githubusercontent.com/eooce/sing-box/main/sb_00.sh)
 ```
-- 必填环境变量：UUID VMESS_PORT HY2_PORT TUIC_PORT
-- 可选环境变量：NEZHA_SERVER NEZHA_PORT NEZHA_KEY ARGO_DOMAIN ARGO_AU
+- 必填环境变量：VMESS_PORT HY2_PORT TUIC_PORT
+- 可选环境变量：UUID NEZHA_SERVER NEZHA_PORT NEZHA_KEY ARGO_DOMAIN ARGO_AU
 
 
 
